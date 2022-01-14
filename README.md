@@ -10,11 +10,11 @@ The index entries consist only of ASCII characters (excluding zero bytes, as the
   
   
 The file system header is exactly 32 bytes.  
-`SLIM-FS!01500000DISKETTE␠A␠␠␠␠␠␠`  
+`SLIM-FS!01500000DISKETTE_A␠␠␠␠␠␠`  
 ```
 header(8),size(8),label(16)
 [ HEADER ][DISKSIZE][   DISK-LABEL   ]
-[SLIM-FS!][01500000][DISKETTE A      ]
+[SLIM-FS!][01500000][DISKETTE_A      ]
 ```  
 \*The header is padded to 32 bytes with spaces.  
   
