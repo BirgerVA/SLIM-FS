@@ -27,7 +27,7 @@ filename(16),offset(8),size(8)
 [    FILENAME    ][ OFFSET ][  SIZE  ]
 [DOCUMENT A.TXT  ][00032001][00000005]
 ```  
-\*The filename is padded to 32 bytes with spaces.  
+\*The filename is padded to 32 bytes with spaces (At the moment, i use question-marks for testing some behaviours of the interpreter).  
   
 ---  
   
