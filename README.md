@@ -1,11 +1,7 @@
 # SLIM-FS
 A ultra compact file system written in BASH
 
-# #!/bin/bash  
-# THIS IS: BASH-BOX  
----  
----  
-## \~Project one: A small ASCII-based file-system.\~  
+## \~A small ASCII-based file-system.\~  
 _SLIM-FS!_  
 ...is my attempt to write an ultra compact file system that is more transparent than any other.  
 The index entries consist only of ASCII characters (excluding zero bytes, as these are created during formatting).  
